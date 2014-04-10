@@ -1,0 +1,5 @@
+.DS_Store
+*apk
+platforms/android/bin/
+platforms/android/CordovaLib/bin/
+www/.idea/

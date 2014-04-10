@@ -1,0 +1,19 @@
+{
+  "name": "www",
+  "version": "0.0.0",
+  "authors": [
+    "Fernando A <fernando.arconada@gmail.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "vendor",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular-phonegap-ready": "~0.0.1",
+    "angular-phonegap": "~0.1.0"
+  }
+}
